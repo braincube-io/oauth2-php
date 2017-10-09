@@ -23,7 +23,7 @@ Add the following to your `composer.json` file.
 ```json
 {
     "require": {
-        "braincube-io/oauth2-php": "^1.0"
+        "braincube-io/oauth2-php": "1.0.0"
     }
 }
 ```
